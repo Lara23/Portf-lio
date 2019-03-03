@@ -1,0 +1,51 @@
+@media screen and (min-width: 1280px){
+/*MAIBOX INÍCIO*/
+	.mainbox{
+		background: url("../../img/imagem_menu.jpg") no-repeat ;
+		width: 100%;
+	    height: 100%;
+	    display: flex;
+	    -webkit-background-size: cover;
+	    color: rgb(255, 255, 255, 0.9);
+	}
+
+	.text_mainbox{
+		display: flex;
+		padding-left: 10%;
+		padding-top: 20%;
+		flex-direction: column;
+	}
+
+	.text_mainbox h1{
+		font-size: 5vw;
+	}
+
+	.text_mainbox p{
+		font-size: 2vw;
+	}
+/*MAIBOX FIM*/
+
+
+/*BOX_TITLE INÍCIO*/
+	.box_title{
+		display: flex;
+		background-color: #423F3B;
+		width: 30vw;
+		height: 5vw;
+		color: #DDA45F;
+		font-size: 2vw;
+		align-items: center;
+		justify-content: center;
+	}
+/*BOX_TITLE FIM*/
+
+/*ABOUT_ME INÍCIO*/
+	.about_me{
+		background: url("../../img/imagem_menu.jpg") no-repeat;
+		width: 100%;
+	    height: 100%;
+	    display: flex;
+	    -webkit-background-size: cover;
+	}
+/*ABOUT_ME FIM*/	
+}
