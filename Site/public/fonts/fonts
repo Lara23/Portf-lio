@@ -1,0 +1,9 @@
+@font-face {
+    font-family: teste;
+    src: url(fonte_1/Mudar-Regular.ttf)
+}
+
+@font-face {
+    font-family: Mudar;
+    src: url(fonte_2/Mudar-Regular.ttf)
+}
